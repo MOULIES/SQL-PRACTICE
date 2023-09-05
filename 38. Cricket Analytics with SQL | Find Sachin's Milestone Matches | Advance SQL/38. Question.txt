@@ -1,0 +1,18 @@
+
+https://youtu.be/7LufPVm01NQ
+
+
+we are going to discuss Sachin Tendulkar's milestone matches 
+ie: when he completed 100, 5000, 10000 runs.  
+We will make dynamic query to add more milestone.
+
+Dataset link:
+https://docs.google.com/spreadsheets/d/1-utCWJ4PseJjLipW15Gm9lVG5J6FrmOR/edit#gid=390450519
+
+
+output:
+milestone_number  milestone_runs    milestone_match     milestone_innings
+1                 1000              36                  34  
+2                 5000              141                 138
+3                 10000             266                 259
+4                 15000             387                 377
